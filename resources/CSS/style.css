@@ -13,3 +13,7 @@ h1 {
   font-size: 70px;
   
 }
+
+ul {
+  list-style-type: none;
+}
